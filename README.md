@@ -25,3 +25,9 @@ Analyser un fichier de notes de 50 étudiants pour calculer les indicateurs de p
 Gradué Info & Stats - UNILU, Lubumbashi, RDC  
 🎯 Recherche : Poste Data Analyst Junior Madagascar / Remote  
 📧 Contact : tonmail@gmail.com
+
+## 👨‍💻 Auteur
+**Code Shimbialpha2000**  
+Gradué Info & Stats - UNILU, Lubumbashi, RDC  
+🎯 Recherche : Data Analyst Junior Madagascar / Remote  
+📧 Contact : tonmail@gmail.com

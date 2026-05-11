@@ -1,2 +1,1 @@
-# -analyse-notes-unilu
-   Analyse statistique des notes étudiants avec Python Pandas. Projet Data Analyst UNILU.
+## Analyse des notes UNILU - Python Pandas.

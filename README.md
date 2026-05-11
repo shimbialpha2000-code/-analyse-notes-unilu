@@ -10,7 +10,7 @@ Analyser un fichier de notes de 50 étudiants pour calculer les indicateurs de p
 - Taux de réussite >= 10/20 
 - Identification des matières avec le plus d'échecs
 
-## 🛠️ Technologies
+# 🛠️ Technologies
 - Python 3
 - Pandas
 - Jupyter Notebook
@@ -24,10 +24,10 @@ Analyser un fichier de notes de 50 étudiants pour calculer les indicateurs de p
 **Code Shimbialpha2000**  
 Gradué Info & Stats - UNILU, Lubumbashi, RDC  
 🎯 Recherche : Poste Data Analyst Junior Madagascar / Remote  
-📧 Contact : tonmail@gmail.com
+📧 Contact : shimbialpha2000@gmail.com
 
-## 👨‍💻 Auteur
+# 👨‍💻 Auteur
 **Code Shimbialpha2000**  
 Gradué Info & Stats - UNILU, Lubumbashi, RDC  
 🎯 Recherche : Data Analyst Junior Madagascar / Remote  
-📧 Contact : tonmail@gmail.com
+📧 Contact : shimbialpha2000@gmail.com
